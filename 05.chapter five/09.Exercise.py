@@ -1,4 +1,12 @@
 '''
+Author: 0day-1024 2048591453@qq.com
+Date: 2024-09-11 21:02:18
+LastEditors: 0day-1024 2048591453@qq.com
+LastEditTime: 2024-10-12 09:28:37
+FilePath: \python_work\05.chapter five\09.Exercise.py
+Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+'''
+'''
 练习 5.8：以特殊⽅式跟管理员打招呼 
 创建⼀个⾄少包含 5 个⽤户名的列表，并且其中⼀个⽤户名为 'admin'。
 想象你要编写代码，在每个⽤户登录⽹站后都打印⼀条问候消息。
@@ -80,4 +88,4 @@ for number in numbers:
     elif number == 3:
         print("3rd")
     else:
-        print(f"{number}th")
+        print(f"{number}th")        
